@@ -524,7 +524,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1745304440}
   m_Layer: 0
-  m_Name: Coop User Upload
+  m_Name: Coop User Upload Ver2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
